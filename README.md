@@ -1,8 +1,6 @@
 # BiteSpeed Frontend Task: Chatbot flow builder
 
-![Chatbot Flow Builder](./task-screenshot.jpeg)
-
-[See the live demo](https://chatbot-flow-builder-task-bitespeed.vercel.app/)
+Deployed - https://chatbot-khaki-tau.vercel.app/
 
 We’ll build a simple Chatbot flow builder using React and try to make the code extensible to easily add new features.
 
@@ -33,3 +31,5 @@ A chatbot flow is built by connecting multiple messages to decide the order of e
 - UnoCss
 
 ## Author
+** Abhishek Sharma **
+Email Id - abhishek020800@gmail.com
